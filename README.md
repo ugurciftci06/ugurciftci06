@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugurCiftci
 - 👀 I’m interested in game development, digital twins and mainly, data science.
-- 🌱 I’m developing my skills on data science.
+- 🌱 Currently, I'm developing my skills on data science.
 - 📫 You can reach me through my mail: ugurciftci006@gmail.com
 
 <!---
